@@ -1,0 +1,7 @@
+{
+  "name": "financial-sentiment-analysis",
+  "implementation": "custom_model.CustomFinancialSentimentModel",
+  "parameters": {
+    "task": "text-classification"
+  }
+}
