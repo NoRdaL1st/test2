@@ -1,6 +1,6 @@
 {
-  "name": "financial-sentiment-analysis",
-  "implementation": "custom_model.CustomFinancialSentimentModel",
+  "name": "distilRoberta-financial-sentiment",
+  "implementation": "custom_model.distilroberta-finetuned-financial-news-sentiment-analysis",
   "parameters": {
     "task": "text-classification"
   }
